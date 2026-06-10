@@ -3,8 +3,8 @@
 // Complete replacement for Firebase
 // ============================================
 
-const SUPABASE_URL = 'YOUR_SUPABASE_URL'; // https://mmprftkkpqllemyljtjm.supabase.co
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_KEY'; // sb_publishable_GAxCsuByim8VxOIEyLgWZw_sPyru5i1
+const SUPABASE_URL = 'https://mmprftkkpqllemyljtjm.supabase.co'; // Get from Supabase Dashboard
+const SUPABASE_ANON_KEY = 'sb_publishable_GAxCsuByim8VxOIEyLgWZw_sPyru5i1'; // Get from Supabase Dashboard
 
 // ============================================
 // LOAD SUPABASE CLIENT
